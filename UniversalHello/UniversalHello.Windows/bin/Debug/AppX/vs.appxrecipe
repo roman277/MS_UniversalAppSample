@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MSA2403236</Machine>
+    <WindowsUser>dmitryso</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d17e6c5e-11ea-4e0e-8c84-92eab7f1ca07</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D8C9F7629966CC7DD9FC14213705F5DC9169CFAE6AD087ADA1081EA1FD5976C6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d17e6c5e-11ea-4e0e-8c84-92eab7f1ca07_1.0.0.0_neutral__fczky8pq24b2y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d17e6c5e-11ea-4e0e-8c84-92eab7f1ca07_fczky8pq24b2y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d17e6c5e-11ea-4e0e-8c84-92eab7f1ca07</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dmitryso</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-07T10:00:06.192</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\bin\Debug\UniversalHello.Windows.exe">
+      <PackagePath>UniversalHello.Windows.exe</PackagePath>
+      <Modified>2014-04-07T10:00:05.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-29T19:56:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-29T19:56:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-29T19:56:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-29T19:56:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-07T10:00:05.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-07T10:00:05.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\bin\Debug\Resources.xbf">
+      <PackagePath>Resources.xbf</PackagePath>
+      <Modified>2014-04-07T10:00:05.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\bin\Debug\UniversalHello.Windows.xr.xml">
+      <PackagePath>UniversalHello.Windows.xr.xml</PackagePath>
+      <Modified>2014-04-07T10:00:05.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-07T10:00:06.045</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

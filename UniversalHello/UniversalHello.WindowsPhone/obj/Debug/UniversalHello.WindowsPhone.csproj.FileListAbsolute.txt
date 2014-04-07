@@ -1,0 +1,17 @@
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\bin\Debug\App.xbf
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\bin\Debug\UniversalHello.WindowsPhone.xr.xml
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\bin\Debug\UniversalHello.WindowsPhone.exe
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\bin\Debug\UniversalHello.WindowsPhone.pdb
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\App.g.cs
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\App.xaml
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\App.xbf
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\UniversalHello.WindowsPhone.exe
+c:\users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.WindowsPhone\obj\Debug\UniversalHello.WindowsPhone.pdb

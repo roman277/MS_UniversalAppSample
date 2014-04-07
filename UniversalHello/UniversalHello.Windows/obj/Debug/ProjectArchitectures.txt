@@ -1,0 +1,1 @@
+C:\Users\dmitryso\documents\visual studio 2013\Projects\UniversalHello\UniversalHello\UniversalHello.Windows\UniversalHello.Windows.csproj;neutral
